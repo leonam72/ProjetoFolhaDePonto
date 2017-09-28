@@ -1,6 +1,7 @@
 body {
 	margin: 10;
 }
+
 header p {
 	
 	text-align: center;
@@ -68,4 +69,24 @@ table.dados-tabela tr, td, th {
 
 #assinatura {
 	float: left;
+}
+
+
+
+
+header .item{
+	float: none;
+	display: inline-block;
+	width: 33%;
+}
+
+
+.text-right{
+	text-align: right;
+}
+.text-left{
+	text-align: left;
+}
+.text-center{
+	text-align: center;
 }
