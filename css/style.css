@@ -1,0 +1,71 @@
+body {
+	margin: 10;
+}
+header p {
+	
+	text-align: center;
+	height: 100%;
+	min-height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 0;
+
+
+}
+#cachoeiras {
+	float: left;	
+	width: 300px;
+
+}
+#zoonoses {
+	float: right;
+	width: 200px;
+
+}
+table.dados-tabela th, table.calendario-tabela th {
+	background-color: #CFCFCF;
+
+}
+table.dados-tabela, table.calendario-tabela {
+	text-align: center;
+	border-collapse: collapse;
+	width: 100%;
+
+}
+
+table.dados-tabela tr, td, th {	
+	border: 1px solid black;
+
+}
+.dados {
+	text-align: center;
+	height: 100%;
+	min-height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+}
+.calendario {
+	text-align: center;
+	margin-top: 20px;
+
+}
+
+#assinatura, #chefe {
+
+	border-top: 1px solid black;
+	width: 300px;
+	text-align: center;
+
+}
+
+#chefe {
+	float: right;
+
+}
+
+#assinatura {
+	float: left;
+}
