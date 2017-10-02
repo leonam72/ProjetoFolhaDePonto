@@ -1,5 +1,7 @@
 body {
 	margin: 10;
+    font-family: "Times New Roman", Times, serif;
+
 }
 
 header p {
@@ -71,6 +73,7 @@ table.dados-tabela tr, td, th {
 	float: left;
 }
 
+<<<<<<< 89f3420118e3eae6e8cbbbc826dac489d51df85c
 
 
 
@@ -89,4 +92,13 @@ header .item{
 }
 .text-center{
 	text-align: center;
+=======
+#mes {
+	background-color: white;
+	border: none;
+	font-family: "Times New Roman", Times, serif;
+	width: 150px;
+	height:	20px;
+	padding: none;
+>>>>>>> 6e77b7a257849527a690452a288520e05dcb66e7
 }
